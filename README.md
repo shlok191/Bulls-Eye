@@ -9,6 +9,6 @@ HOW TO PLAY :-
 
 Download The Repository.
 Put all the files into a folder
-Run the 'BullsEye.exe' file.
+Run the 'Bull's Eye.exe' file.
 Thats it. :)
 P.S. Keep in mind, that I just made it for fun and just overlook the fact that the game is very short and you can finish it in 5 minutes if you try.
