@@ -12,4 +12,4 @@ HOW TO PLAY :-
   3.  Run the 'Bull's Eye.exe' file.
   4.  Thats it. :)
 
-P.S. Keep in mind, that I just made it for fun and just overlook the fact that the game is very short and you can finish it in 5 minutes if you try.
+P.S. Keep in mind, that I just made it for fun and just overlook the fact that the game is very short and you can finish it in 5 minutes if you try. Thank you for visiting!
