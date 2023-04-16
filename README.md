@@ -1,4 +1,4 @@
-# Bull-s-Eye-Game-C-
+# Bull-s-Eye-Game
 This is a word game that i made in C++, you have been given some letters in a circle, and one letter in the center of the circle. You have to make meaningful words out of the letters, and you're words must have the central letter. The game has 6 different sets of letters.
 
 This a 2-dimensional game that I made in C++ language when I was 13 years old. I thought it would be fun to put this on Github.
